@@ -43,3 +43,4 @@ config/
 lib/
 
 *.sh
+#test
