@@ -66,7 +66,7 @@
         <version.orientdb>2.1.16</version.orientdb>
         <version.guava>19.0</version.guava>
         <version.jetty.maven.plugin>9.3.12.v20160915</version.jetty.maven.plugin>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.2</version.junit>
     </properties>
 
     <build>
